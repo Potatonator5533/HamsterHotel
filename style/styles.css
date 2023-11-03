@@ -1,0 +1,150 @@
+.navStyle{
+    background-color: #000324;
+    color: white;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.textStyle1{
+    color: #1A1B26;
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.textStyle2{
+    color: #ffffff;
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.textStyle3{
+    color: #E5FEFF;
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.amenitiesStyle{
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: bold;
+}
+
+.titleStyle{
+    color: #ffffff;
+    font-size: 45px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.subTitleStyle1{
+    color: #1A1B26;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.subTitleStyle2{
+    color: #ffffff;
+    font-size: 35px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.subTitleStyle3{
+    color: #1A1B26;
+    font-size: 25px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.packageTextStyle{
+    color: #1F51A8;
+    font-size: 16px;
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+/* Images */
+.imageBGHeader{
+    background-image: url(../assets/header.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+.imageBG2{
+    background-image: url(../assets/bg2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 738px;
+    width: 100%;
+}
+
+.imageBG{
+    background-image: url(../assets/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 548px;
+    width: 100%;
+}
+
+.imageBGHamsterReserve{
+    background-image: url(../assets/hamsterreserve.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 414px;
+    width: 100%;
+}
+
+.imageBGhamsterhomejpg{
+    background-image: url(../assets/hamsterhomejpg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 416px;
+    width: 100%;
+}
+
+.imageBGroom1{
+    background-image: url(../assets/room1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.imageBGroom2{
+    background-image: url(../assets/room2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.imageBGroom3{
+    background-image: url(../assets/room3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.imageBGhamsterwedding{
+    background-image: url(../assets/hamsterwedding.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.imageBGhamsterspring{
+    background-image: url(../assets/hamsterspring.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.imageBGhamstercheese{
+    background-image: url(../assets/hamstercheese.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
